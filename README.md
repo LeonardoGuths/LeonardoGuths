@@ -1,7 +1,7 @@
-## Salve! 👋 Sou o Leonardo Guths!
+## Hey there! 👋 I'm Leonardo Guths!
 
-- 📚 Atualmente estudante de Ciência da Computação na UFPel.
-- 🌱 Aprendendo React / HTML / CSS / JS
+- 📚 Computer Science Student @ UFPel.
+- 🌱 Currently studying Gatsby JS
 
 <div>
   <a href="https://github.com/LeonardoGuths">
@@ -11,6 +11,7 @@
   
 ## Linguagens e Ferramentas
 <div style="display: inline_block"><br>
+  <img align="center" alt="Guths-Gatsby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg">
   <img align="center" alt="Guths-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Guths-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guths-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
