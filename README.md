@@ -9,7 +9,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoGuths&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
   
-## Linguagens e Ferramentas
+## Tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Guths-Gatsby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg">
   <img align="center" alt="Guths-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -21,7 +21,7 @@
   <img align="center" alt="Guths-Haskell" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg">
 </div>
   
-  ## Contato
+  ## Contact
   
 <div>
   <a href = "mailto:ldsguths@inf.ufpel.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
