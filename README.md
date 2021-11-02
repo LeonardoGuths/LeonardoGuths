@@ -1,7 +1,8 @@
 ## Hey there! 👋 I'm Leonardo Guths!
 
-- 📚 Computer Science Student @ UFPel.
-- 🌱 Currently studying Gatsby JS
+- 🧩 Front-end Developer @ **[Hut8](http://www.hut8.com.br/)**
+- 📚 Computer Science Student @ **[UFPel](https://portal.ufpel.edu.br/)**
+- 🌱 Currently studying **[Gatsby JS](https://www.gatsbyjs.com/)**
 
 <div>
   <a href="https://github.com/LeonardoGuths">
