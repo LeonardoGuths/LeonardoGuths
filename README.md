@@ -1,6 +1,6 @@
 ## Hey there! 👋 I'm Leonardo Guths!
 
-- 🧩 Front-end Developer @ **[Hut8](http://www.hut8.com.br/)**
+- 🧩 Front-end Developer & Marketing Advisor @ **[Hut8](http://www.hut8.com.br/)**
 - 📚 Computer Science Student @ **[UFPel](https://portal.ufpel.edu.br/)**
 - 🌱 Currently studying **[Gatsby JS](https://www.gatsbyjs.com/)**
 
