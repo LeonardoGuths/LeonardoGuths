@@ -1,5 +1,6 @@
 ## Hey there! 👋 I'm Leonardo Guths!
 
+- 🎮 Currently working on a 3D application in **[Unity](https://unity.com/)**
 - 🧩 Front-end Developer & Marketing Advisor @ **[Hut8](http://www.hut8.com.br/)**
 - 📚 Computer Science Student @ **[UFPel](https://portal.ufpel.edu.br/)**
 
@@ -18,6 +19,7 @@
   <img align="center" alt="Guths-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Guths-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Guths-CSharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Guths-Unity" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg">
   <img align="center" alt="Guths-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Guths-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Guths-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
