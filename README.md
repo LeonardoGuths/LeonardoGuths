@@ -1,8 +1,7 @@
 ## Hey there! 👋 I'm Leonardo Guths!
 
+- 📚 Computer Scientist from **[UFPel](https://portal.ufpel.edu.br/)**
 - 🎮 Currently working on a 3D application in **[Unity](https://unity.com/)**
-- 🧩 Front-end Developer & Marketing Advisor @ **[Hut8](http://www.hut8.com.br/)**
-- 📚 Computer Science Student @ **[UFPel](https://portal.ufpel.edu.br/)**
 
 <div>
   <a href="https://github.com/LeonardoGuths">
