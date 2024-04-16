@@ -1,5 +1,6 @@
 ## Hey there! 👋 I'm Leonardo Guths!
 
+- 💻 Software Developer at **[MetaHealth Co.](https://www.inf.ufrgs.br/metahealth/)**
 - 🎓 Master's Student at **[PPGC/UFRGS](https://www.inf.ufrgs.br/ppgc/)**
 - 📚 Computer Scientist from **[UFPel](https://portal.ufpel.edu.br/)**
 
