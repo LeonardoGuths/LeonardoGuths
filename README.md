@@ -1,7 +1,7 @@
 ## Hey there! 👋 I'm Leonardo Guths!
 
+- 🎓 Master's Student at **[PPGC/UFRGS](https://www.inf.ufrgs.br/ppgc/)**
 - 📚 Computer Scientist from **[UFPel](https://portal.ufpel.edu.br/)**
-- 🎮 Currently working on a 3D application in **[Unity](https://unity.com/)**
 
 <div>
   <a href="https://github.com/LeonardoGuths">
