@@ -1,6 +1,6 @@
 ## Hey there! 👋 I'm Leonardo Guths!
 
-- <img align="center" alt="Guths-Akcit" width="100" src="https://files.cercomp.ufg.br/weby/up/1218/o/logo_akcit.webp"> Research Engineer at Advanced Knowledge Center in Immersive Technologies (AKCIT)
+- <img align="center" alt="Guths-Akcit" width="100" src="https://files.cercomp.ufg.br/weby/up/1218/o/logo_akcit.webp"> Research Engineer at [Advanced Knowledge Center in Immersive Technologies (AKCIT)](https://akcit.ufg.br/)
 - 💻 Software Developer at **[MetaHealth Co.](https://metahealth.med.br/)**
 - 🎓 Master's Student at **[PPGC/UFRGS](https://www.inf.ufrgs.br/ppgc/)**
 - 📚 Computer Scientist from **[UFPel](https://portal.ufpel.edu.br/)**
